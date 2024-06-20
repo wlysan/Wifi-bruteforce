@@ -20,7 +20,7 @@ This Python script allows you to perform WiFi network operations such as scannin
 #### Installation:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/wifi-password-cracker.git
+   git clone https://github.com/wlysan/wifi-bruteforce.git
    ```
 2. Install dependencies:
    ```
