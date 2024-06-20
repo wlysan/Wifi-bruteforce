@@ -57,7 +57,7 @@ Este script em Python permite realizar operações em redes WiFi, como varredura
 #### Instalação:
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-nome-de-usuario/wifi-password-cracker.git
+   git clone https://github.com/wlysan/wifi-bruteforce.git
    ```
 2. Instale as dependências:
    ```
